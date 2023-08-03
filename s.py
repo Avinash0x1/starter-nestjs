@@ -1,5 +1,4 @@
 import os
-import ptyprocess
 import subprocess
 import sys
 import shutil
